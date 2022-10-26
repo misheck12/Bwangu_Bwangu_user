@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482180473817",
+    "project_id": "bwangu-bwangu",
+    "storage_bucket": "bwangu-bwangu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482180473817:android:8b5ab7ce85fdc7bf4bafc8",
+        "android_client_info": {
+          "package_name": "com.bwangubwangu.app.Bwangu_Bwangu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482180473817-khr0dir4g9sjhgk7b5mrqquehhtdierp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl5IjUNgODMMWUbRxCIxspsTfKONBY2DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482180473817-khr0dir4g9sjhgk7b5mrqquehhtdierp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
